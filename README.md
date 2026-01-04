@@ -33,12 +33,6 @@ Side-by-side energy comparison between the two models
 
 The clutch mechanism successfully stores and reinjects energy, achieving a Cost of Transport (CoT) of 0.02 on a 1° slope.
 
-## Research
-
-**Status**: ICRA 2026, Under Review
-
-**Authors**: Tongchen Lin, Yanqiu Zheng, Ruigang Chen, Chuhan Zhang, Yizhar Or, Mingyi Liu*
-
 ## Project Structure
 
 - `clutch/` - Implementation with clutch mechanism
