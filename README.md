@@ -28,6 +28,12 @@ The clutch mechanism successfully stores and reinjects energy, achieving a Cost 
 
 **Authors**: Tongchen Lin, Yanqiu Zheng, Ruigang Chen, Chuhan Zhang, Yizhar Or, Mingyi Liu*
 
+## Project Structure
+
+- `clutch/` - Implementation with clutch mechanism
+- `no clutch/` - Baseline implementation without clutch
+- `two models/` - Comparison between models
+
 ## Contact
 
 Email: chuhan.zhang@gtiit.edu.cn  
