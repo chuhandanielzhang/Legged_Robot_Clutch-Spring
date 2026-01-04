@@ -19,26 +19,17 @@ Experimental demonstrations of the energy-recycling mechanism:
 ### With Clutch
 Energy-recycling rimless wheel with lockable clutch mechanism
 
-<video width="600" controls>
-  <source src="clutch/movie/movie.mp4" type="video/mp4">
-  Your browser does not support the video tag. [Download video](clutch/movie/movie.mp4)
-</video>
+![With Clutch](clutch/movie/movie.gif)
 
 ### Without Clutch
 Baseline configuration without clutch
 
-<video width="600" controls>
-  <source src="no clutch/movie/movie.mp4" type="video/mp4">
-  Your browser does not support the video tag. [Download video](no%20clutch/movie/movie.mp4)
-</video>
+![Without Clutch](no%20clutch/movie/movie.gif)
 
 ### Energy Comparison
 Side-by-side energy comparison between the two models
 
-<video width="600" controls>
-  <source src="two models/movie/CompareEnergyAnimation.mp4" type="video/mp4">
-  Your browser does not support the video tag. [Download video](two%20models/movie/CompareEnergyAnimation.mp4)
-</video>
+![Energy Comparison](two%20models/movie/CompareEnergyAnimation.gif)
 
 The clutch mechanism successfully stores and reinjects energy, achieving a Cost of Transport (CoT) of 0.02 on a 1° slope.
 
@@ -58,3 +49,6 @@ The clutch mechanism successfully stores and reinjects energy, achieving a Cost 
 
 Email: chuhan.zhang@gtiit.edu.cn  
 Website: [chuhandanielzhang.github.io](https://chuhandanielzhang.github.io)
+
+
+
