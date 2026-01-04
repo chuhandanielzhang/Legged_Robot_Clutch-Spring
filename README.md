@@ -16,9 +16,9 @@ Foot-ground collisions in legged locomotion cause significant energy loss. While
 
 Experimental demonstrations of the energy-recycling mechanism:
 
-- **With Clutch**: `clutch/movie/movie.mp4` - Energy-recycling rimless wheel with lockable clutch mechanism
-- **Without Clutch**: `no clutch/movie/movie.mp4` - Baseline configuration without clutch
-- **Energy Comparison**: `two models/movie/CompareEnergyAnimation.mp4` - Side-by-side energy comparison between the two models
+- **With Clutch**: [clutch/movie/movie.mp4](clutch/movie/movie.mp4) - Energy-recycling rimless wheel with lockable clutch mechanism
+- **Without Clutch**: [no clutch/movie/movie.mp4](no%20clutch/movie/movie.mp4) - Baseline configuration without clutch
+- **Energy Comparison**: [two models/movie/CompareEnergyAnimation.mp4](two%20models/movie/CompareEnergyAnimation.mp4) - Side-by-side energy comparison between the two models
 
 The clutch mechanism successfully stores and reinjects energy, achieving a Cost of Transport (CoT) of 0.02 on a 1° slope.
 
